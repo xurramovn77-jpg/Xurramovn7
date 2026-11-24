@@ -1,0 +1,8 @@
+{
+  "name": "Remix NEXPLAY — O\u0027yin Ekotizimi",
+  "description": "NEXPLAY — HTML5 o\u0027yinlar platformasi, xavfsiz sandbox pleyeri, turnirlar, reyting, hamjamiyat va boshqaruv markazi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
